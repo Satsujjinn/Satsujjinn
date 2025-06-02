@@ -7,7 +7,7 @@
 
 <!-- ────────────────────────────────────────────────────────────────────── -->
 ## 👤 About Me  
-I’m a software engineer specializing in building scalable, maintainable, and test-driven web applications. With over X years of professional experience, I’ve contributed to multiple open-source projects and led cross-functional teams. My passion lies in crafting clean code, automating workflows, and continuously learning emerging technologies.  
+I’m a software engineer specializing in building scalable, maintainable, and test-driven web applications. With over 2 years of professional experience, I’ve contributed to multiple open-source projects and led cross-functional teams. My passion lies in crafting clean code, automating workflows, and continuously learning emerging technologies.  
 
 -  Always exploring improvements in CI/CD pipelines, container orchestration (Kubernetes), and cloud cost optimization.  
 - 💬 Ask me about **Next.js**, **TypeScript**, **Docker**, or advanced **Git/GitHub workflows**.  
