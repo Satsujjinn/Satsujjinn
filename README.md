@@ -5,9 +5,9 @@
   <img src="https://raw.githubusercontent.com/username/username/main/banner.png" alt="Banner" width="100%" />
 </p>
 
-# YOUR NAME  
-**Senior Software Engineer** · Full-Stack · DevOps Enthusiast  
-[📧 email@domain.com](mailto:email@domain.com) · [🌐 yourwebsite.com](https://yourwebsite.com) · [LinkedIn](https://www.linkedin.com/in/yourprofile) · [Twitter](https://twitter.com/yourhandle)
+# Leon Jordaan
+**Junior Software Engineer** · Full-Stack · DevOps Enthusiast  
+[📧 email@domain.com](leonjordaan10@gmial.com) · [🌐 yourwebsite.com](https://leonsite.com) 
 
 ---
 
@@ -15,10 +15,9 @@
 ## 👤 About Me  
 I’m a software engineer specializing in building scalable, maintainable, and test-driven web applications. With over X years of professional experience, I’ve contributed to multiple open-source projects and led cross-functional teams. My passion lies in crafting clean code, automating workflows, and continuously learning emerging technologies.  
 
-- 🔭 Currently leading backend architecture for a high-traffic, subscription-based platform.  
-- 🌱 Always exploring improvements in CI/CD pipelines, container orchestration (Kubernetes), and cloud cost optimization.  
+-  Always exploring improvements in CI/CD pipelines, container orchestration (Kubernetes), and cloud cost optimization.  
 - 💬 Ask me about **Next.js**, **TypeScript**, **Docker**, or advanced **Git/GitHub workflows**.  
-- 📄 Download my résumé: [PDF](https://yourwebsite.com/resume.pdf)
+- 📄 Download my résumé: [PDF](https://leonsite.com/resume.pdf)
 
 ---
 
