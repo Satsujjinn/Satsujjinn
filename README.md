@@ -6,7 +6,7 @@
 ---
 
 <!-- ────────────────────────────────────────────────────────────────────── -->
-## 👤 About Me  
+##  About Me  
 I’m a software engineer specializing in building scalable, maintainable, and test-driven web applications. With over 2 years of professional experience, I’ve contributed to multiple open-source projects and led cross-functional teams. My passion lies in crafting clean code, automating workflows, and continuously learning emerging technologies.  
 
 -  Always exploring improvements in CI/CD pipelines, container orchestration (Kubernetes), and cloud cost optimization.  
@@ -16,7 +16,7 @@ I’m a software engineer specializing in building scalable, maintainable, and t
 ---
 
 <!-- ────────────────────────────────────────────────────────────────────── -->
-## 🔧 Tech Stack  
+## Tech Stack  
 
 <p align="center">
   <!-- Cloud / Hosting -->
@@ -49,7 +49,7 @@ I’m a software engineer specializing in building scalable, maintainable, and t
 
 ---
 <!-- ────────────────────────────────────────────────────────────────────── -->
-## 🚀 Highlight Projects  
+## Highlight Projects  
 
 <details>
   <summary><strong>3. TalentScout</strong></summary>
@@ -87,7 +87,7 @@ These are also automatically surfaced as “Pinned” on your GitHub profile pag
 ---
 
 <!-- ────────────────────────────────────────────────────────────────────── -->
-## ✉️ Connect  
+## ✉Connect  
 
 - 💼 LinkedIn: moet nog kom 
 - 🌐 Website: Leonsite.com
@@ -97,7 +97,7 @@ These are also automatically surfaced as “Pinned” on your GitHub profile pag
 
 <!-- ────────────────────────────────────────────────────────────────────── -->
 <!--       Footnotes / Optional “Achievements” or “Certifications”         -->
-### 🎖️ Qualifications
+### Qualifications
 BSc Information Technology (Software Engineering), 3 years at Eduvos,
 Tygervalley, Cape Town
 
