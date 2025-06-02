@@ -1,7 +1,7 @@
 
 # Leon Jordaan
 **Junior Software Engineer** · Full-Stack · DevOps Enthusiast  
-[📧 email@domain.com](leonjordaan10@gmial.com) · [🌐 yourwebsite.com](https://leonsite.com) 
+[📧 leonjordaan10@gmial.com](leonjordaan10@gmial.com) · [🌐 Leonsite.com](leonjordaan10@gmial.com) 
 
 ---
 
