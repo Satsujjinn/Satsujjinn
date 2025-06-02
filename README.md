@@ -91,12 +91,13 @@ These are also automatically surfaced as “Pinned” on your GitHub profile pag
 
 - 💼 LinkedIn: moet nog kom 
 - 🌐 Website: Leonsite.com
-- 📧 Email: email@domain.com  
+- 📧 Email: leonjordaan10@gmail.com  
 
 ---
 
 <!-- ────────────────────────────────────────────────────────────────────── -->
 <!--       Footnotes / Optional “Achievements” or “Certifications”         -->
 ### 🎖️ Qualifications
-- 
+BSc Information Technology (Software Engineering), 3 years at Eduvos,
+Tygervalley, Cape Town
 
