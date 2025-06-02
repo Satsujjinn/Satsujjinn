@@ -52,7 +52,7 @@ I’m a software engineer specializing in building scalable, maintainable, and t
 ## Highlight Projects  
 
 <details>
-  <summary><strong>3. TalentScout</strong></summary>
+  <summary><strong>1. TalentScout</strong></summary>
   
   - **Description**: An AI-powered athlete recruitment site.  
   - **Tech**: Python · FastAPI · Redis · Docker  
