@@ -81,7 +81,7 @@ These are also automatically surfaced as “Pinned” on your GitHub profile pag
 ## 📈 Contribution Activity  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark&show_indicators=true&area=true" width="720" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satsujjinn&theme=github-dark&show_indicators=true&area=true" width="720" alt="Contribution Graph" />
 </p>
 
 ---
