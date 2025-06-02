@@ -48,18 +48,6 @@ I’m a software engineer specializing in building scalable, maintainable, and t
 </p>
 
 ---
-
-<!-- ────────────────────────────────────────────────────────────────────── -->
-## 📊 GitHub Profile Summary  
-
-<p align="center">
-  <!-- Dynamic GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&count_private=true&locale=en" alt="GitHub Stats" width="380" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Top Languages" width="320" />
-</p>
-
----
-
 <!-- ────────────────────────────────────────────────────────────────────── -->
 ## 🚀 Highlight Projects  
 
