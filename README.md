@@ -1,9 +1,3 @@
-<!-- ────────────────────────────────────────────────────────────────────── -->
-<!--                             Header / Banner                          -->
-<p align="center">
-  <!-- Optional: You can replace the banner URL with your own hosted image -->
-  <img src="https://raw.githubusercontent.com/username/username/main/banner.png" alt="Banner" width="100%" />
-</p>
 
 # Leon Jordaan
 **Junior Software Engineer** · Full-Stack · DevOps Enthusiast  
