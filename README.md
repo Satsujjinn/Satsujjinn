@@ -72,8 +72,8 @@ These are also automatically surfaced as “Pinned” on your GitHub profile pag
 
 | Repository | Description | Tech Stack | Stars |
 | :--------: | :---------: | :---------: | :---: |
-| [Nexus File App](https://github.com/Satsujjinn/NexusFileApp) | NexusFileApp. | Next.js · TypeScript · PostgreSQL | ★ 123 |
-| [Talent Scout Platform](https://github.com/your-username/TalentScout) | Brief description of repo-two. | Go · Terraform · Docker | ★ 76 |
+| [Nexus File App](https://github.com/Satsujjinn/NexusFileApp) | NexusFileApp. | Next.js · TypeScript · PostgreSQL | ★ 1 |
+| [Talent Scout Platform](https://github.com/your-username/TalentScout) | Brief description of repo-two. | Go · Terraform · Docker | ★ 1 |
 
 ---
 
