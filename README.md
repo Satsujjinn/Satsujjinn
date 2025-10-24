@@ -13,11 +13,8 @@
 ---
 
 <!-- ────────────────────────────────────────────────────────────────────── -->
-## ✉ Connect
 
-- 💼 LinkedIn: coming soon
-- 🌐 Website: [leonsite.com](https://leonsite.com)
-- 📧 Email: [leonjordaan10@gmail.com](mailto:leonjordaan10@gmail.com)
+-  Email: [leonjordaan10@gmail.com](mailto:leonjordaan10@gmail.com)
 
 ---
 
