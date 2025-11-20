@@ -1,7 +1,7 @@
 # Leon Jordaan
  · DevOps Enthusiast
 
-[📧 leonjordaan10@gmail.com](mailto:leonjordaan10@gmail.com) · [🌐 Leonsite.com](https://leonsite.com)
+[📧 leonjordaan10@gmail.com](mailto:leonjordaan10@gmail.com) · 
 
 <!-- ────────────────────────────────────────────────────────────────────── -->
 ## 📈 Contribution Activity
